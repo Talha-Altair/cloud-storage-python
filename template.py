@@ -122,6 +122,6 @@ if __name__ == '__main__':
 
     # upload_to_gcs_bucket()
 
-    download_from_gcs_bucket()
+    # download_from_gcs_bucket()
 
     pass
