@@ -1,0 +1,4 @@
+python-dotenv
+azure-storage-blob
+boto3
+google-cloud-storage
